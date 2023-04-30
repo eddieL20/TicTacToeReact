@@ -22,7 +22,7 @@ export default function Board() {
       [1, 4, 7],
       [2, 5, 8],
       [0, 4, 8],
-      [0, 1, 2],
+      [2, 4, 6],
     ];
     for (let i = 0; i < lines.length; i++) {
       const [a, b, c] = lines[i];
